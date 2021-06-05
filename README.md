@@ -13,10 +13,10 @@
 
 ## Modos de escritas
 
-**negrito**
-*italico*
-***negrito e italico***
-~~Palavra Riscada~~
+- **negrito**
+- *italico*
+- ***negrito e italico***
+- ~~Palavra Riscada~~
 
 1. Pedra
 2. Papel
