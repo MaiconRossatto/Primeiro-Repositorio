@@ -8,8 +8,32 @@
 2021/1 " src="capaGit.png" width="650px">
 </h1>
 
--Lista de Itens
--Segunda lista de Itens
+- Lista de Itens
+- Mais Itens
 
+## Modos de escritas
+
+**negrito**
+*italico*
+***negrito e italico***
+~~Palavra Riscada~~
+
+1. Pedra
+2. Papel
+3. Tesoura
+
+[Link do Google](https://www.google.com.br)
+
+## Tabela
+
+| D/M/A      | Aluno  | Frequencia | Disciplina    |   |
+|------------|--------|------------|---------------|---|
+| 04/06/2021 | Maicon |            | Gerenciamento |   |
+|            |        |            |               |   |
+|            |        |            |               |   |
+
+## Emojis
+
+🥇 🐱 🐶
 
 
